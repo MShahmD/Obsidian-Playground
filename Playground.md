@@ -227,3 +227,14 @@ Beispiel:
 
 ## Installieren von weiteren Plugins
 Plugins können über Einstellung --> Externe Erweiterung --> Community Erweiterung --> Erweiterung aussuchen --> installieren
+
+# Exportieren von Obsidian-Vault
+
+## Server
+Mit [Obsidian-html](https://github.com/obsidian-html/obsidian-html) kann eine Obsidian vault relativ einfach zu HTML-Dateien exportiert und auf einem server deployed werden. Das tool verfügt über eine [Dokumentation](https://obsidian-html.github.io/).
+Alle zu exportierenden Dokumente sollten dazu in einem Indexdokument referenziert werden.
+Nach Installation des Python tools lautet der Befehl zum anschauen der Dokumentation auf einem Webserver:
+```bash
+obsidianhtml run -f "myPathToVault/index.md"
+```
+Die exportierte Dokumentation kann unter [http://localhost:8888/](http://localhost:8888/) betrachtet werden.
