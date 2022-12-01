@@ -161,6 +161,20 @@ def test(parameter):
 ```
 
 
+## Formeln
+Formeln können mit der Latex-Syntax eingefügt werden.
+Es gibt inline-Formeln und Formeln in Zeilen.
+- Für Ganzzeilige Formeln "\$\$"  wie klammern verwenden 
+- inline-Formeln und Mathematische Symbole werden mit jeweils einem "\$" am Anfang und Ende eingeführt
+Beispiel:
+Self-Attention:
+$K,Q,V$ werden aus gelernten Matrizen und der Multiplikation mit dem eingebetteten Eingabe Vektor $x_i$ des input embeddings erzeugt.
+$$softmax(\frac{(KQ)}{\sqrt{d_k}})V$$
+Es können viele weitere mathematische Symbole verwendet werden.
+Eine kurze Übersicht ist unter dem Folgenden Link zu finden.
+[Latex Cheat Sheet](http://tug.ctan.org/info/undergradmath/undergradmath.pdf)
+
+
 ## Toolbar Funktionen
 ### Gliederung
 Oben rechts kann die Gliederung einer Notiz angeschaut werden. (s. Bild unten)
