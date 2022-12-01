@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "ba3f01148d43d4b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "85017ad3ae17c327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d6589a0fadba590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Playground.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6787b5a84e07e9a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "43370e8af8d81359",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01bd677ca93a4288",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23bc1a1a8241fb8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#mytodo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c671bc72b682de8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a648fe43ed3dad2",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa0bb37d8cb68c68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bffc5694518cae7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Playground.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a977be3ca3e4472f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Playground.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f07cd5d9d8804ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dc02ebfa6b8a7ce9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Playground.md"
+              }
+            }
+          },
+          {
+            "id": "29bdc93c04a29386",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "09891f36b04d6029",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "d824b51d1efe69ed",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5d6589a0fadba590",
+  "lastOpenFiles": [
+    "[Gliederung-Symbol.png.md",
+    "Playground.md",
+    "Beispiel Notiz.md",
+    "Dateien/Gliederung-Symbol.png",
+    "Dateien/Hello_World.jpeg",
+    "خارطة فلسطين.jpg.md",
+    "Unbenannt.md",
+    "Datein/خارطة فلسطين.jpg",
+    "2022-11-29.md",
+    "2022-11-30.md"
+  ]
+}
